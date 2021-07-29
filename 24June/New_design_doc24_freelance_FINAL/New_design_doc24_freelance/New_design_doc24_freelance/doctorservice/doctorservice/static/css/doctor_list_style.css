@@ -1,0 +1,386 @@
+.filter {
+    margin-left: -12px;
+}
+.for_search {
+    margin-left: 560px;
+}
+.sbHolder {
+    min-width: 128px;
+}
+.search_btn {
+    display: block;
+    width: 100%;
+}
+.rating-loading {
+    background: none;
+}
+.static {
+    padding: 2px
+}
+.top_edit {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+.tablet {
+    color: #333;
+}
+.for_response {
+    border-radius: 20px; 
+    color: #333; 
+    font-size: 0.875rem;
+}
+#ru_btn button{
+    color: #333;
+    text-decoration: none;
+}
+.main-menu {
+    top: 0;
+}
+.for_phone a{
+    color: #333;
+}
+.mobile_btn a{
+    border-radius: 20px; 
+    color: #333; 
+    font-size: 1.5rem;
+}
+#tog.del {
+    display: none;
+}
+#mog.del {
+    display: none;
+}
+.select_edit {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+.search_btn {
+    background-color: #fff;
+}
+#mog {
+    width: 300px;
+}
+.selectbox {
+    width: 100%;
+}
+.fadeIn {
+    padding: 10px;
+}
+#list_img {
+    border-radius: 0px;
+    height: 161px;
+    width: 161px;
+    position: inherit;
+    top: 0;
+    left: 0;
+}
+#list_img img {
+    height: 100%; 
+    width: 100%;
+    border-radius: none;
+}
+table tr td {
+    text-align: right;
+    padding: 0px 0px 0px 3px;
+}
+.clinic {
+    padding: 0px 11px 0px 9px;
+}
+.for_clinic a {
+    color: #343a40;
+}
+.for_dimo i{
+    color: gray;
+}
+.hr {
+    border: 5px solid #3f4079;
+}
+#content-desktop {display: block;}
+#content-mobile {display: none;}
+#mm-for_mobile {display: none;}
+@media screen and (min-width: 766px) and (max-device-width : 771px)  {
+    .for_search {
+        margin-left: 0px !important;
+        
+}
+#select-form > * {
+    width: 102%;
+    margin-left: -5px !important;
+}
+.for-select {
+    margin: 5px;
+    outline: none;
+    width: 100%;
+}
+#mog {
+    width: 100% !important;
+}
+.search_edit {
+    width: 100%;
+    margin: 5px 4px 0px 4px;
+}
+.center {
+    display: block;
+    margin: 0 auto;
+}
+
+}
+
+@media screen and (max-width: 767.98px) {
+#book_now_div {
+   
+    text-align: center !important;
+   
+}
+#book_now_div a {
+    width: 100% !important;
+   
+}
+#search-form > *{
+    width: 100%;
+    display: block !important;
+    margin-bottom: 5px;
+}
+
+#mog{
+    width: 100% !important;
+}
+
+#tog{
+    width: 100% !important;
+}
+
+
+#time-table{
+width:50vw !important; 
+margin-left:25vw !important; 
+margin-right:15vw !important;
+}
+#time-table tr td{
+   text-align: center;
+}
+#select-form > *{
+    width: 100% !important;
+    
+}   
+.col-sm-2 {
+    max-width: 17.666667%;
+}
+.for-select {
+    margin: 5px;
+    outline: none;
+    width: 100%;
+}
+.filter {
+    margin-left: 0px !important
+}
+.search_btn {
+    display: block;
+    width: 100%;
+}
+.demo {
+    margin-left: 10px;
+}
+.acup {
+    text-align: center;
+}
+.list_home {
+    margin-left: 0px !important;
+}
+.special {
+    text-align: center;
+    margin-bottom: 20px;
+}
+.center {
+    display: block;
+    margin: 0 auto;
+}
+.doctor_details {
+    margin-top: 70px;
+}
+.for_search {
+    margin-left: 0px !important
+}
+.search_edit {
+    width: 100%;
+    margin: 5px 4px 0px 4px;
+}
+#logo_home h1 a {
+    display: inline;
+}
+.ru {
+    display: none;
+}
+#logo_home h1 {
+    font-size: 25px;
+    margin-left: -8px;
+    margin-top: 11px;
+}
+/* .body_width {
+   width: fit-content;
+} */
+.btn_edit {
+margin-left: -38px;
+margin-top: 40px;
+}
+.comment {
+   margin-top: -380px;
+   margin-bottom: 36px;
+}
+.program {
+margin-top: 270px;
+}
+.switch-field {
+   width: 124%;
+}
+.logo_edit img {
+    width: 60%;
+    margin-top: 50px;
+    margin-left: 135px;
+    float: none !important;
+
+}
+.for_response {
+    margin-left: -35px;
+    margin-top: 30px;
+}
+.program_details {
+   margin-top: 280px;
+   margin-left: 60px
+}
+.two {
+   margin-left: 130px !important
+}
+.doctor_info {
+   margin-top: 100px;
+   text-align: center;
+}
+#content-desktop {
+    display: none;
+    }
+#content-mobile {
+    display: block;
+    margin-top: -50px;
+    font-size: 30px;
+    }
+
+    header.static {
+    position:static;
+}
+.row  {
+    margin-left: 0px;
+    margin-right: 0px;
+}
+.col-md-3 {
+    max-width: none;
+}
+select {
+    text-align: center;
+    text-align-last: center;
+}
+.body_width {
+    width: fit-content;
+}
+.select_edit {
+    display: table-row !important
+}
+#mm-for_mobile {
+    display: block;
+}
+
+}
+
+
+@media only screen and (max-width: 420px) {
+.btn_edit {
+    margin-left: -70px;
+}
+.for_response {
+        margin-left: -70px;
+}
+.body_width {
+    width: fit-content !important;
+}
+
+}
+
+@media only screen and (max-width: 300px) {
+.comment {
+    margin-top: -409px;
+    margin-bottom: 60px;
+}
+
+
+}
+
+@media only screen and (min-device-width : 415px) and (max-device-width : 765px) {
+.comment {
+    margin-top: -360px;
+}
+}
+
+@media only screen and (min-device-width : 666px) and (max-device-width : 770px) {
+.body_width {
+    width: auto;
+}
+/* .for_response {
+        margin-left: 6px;
+        margin-top: 20px;
+    } */
+}
+@media only screen and (min-device-width : 768px) 
+{
+.for_search {
+    margin-left: 150px !important
+}
+.logo_edit img {
+    margin-left: 45px;
+}
+select {
+    text-align: center;
+    /* text-align-last: center; */
+}
+.for_h3 {
+    font-size: 20px !important;
+}
+#for_mobile {
+    display: none;
+}
+
+}
+
+@media only screen and (max-width : 771px)  
+{
+table tr td {
+    text-align: center !important;
+    padding: 0px 0px 0px 3px;
+}
+
+.comment{
+    text-align: center !important;
+}
+.body_width {
+    width: auto;
+}
+.select_edit {
+    display: flow-root !important;
+    text-align-last: center;
+}
+}     
+@media (min-width: 768px) and (max-width: 991.98px) {
+.logo_edit img {
+    width: 250px;
+}
+.top_edit {
+    margin-top: 23px;
+}
+.test {
+    margin-left: -24px;
+}
+.margin_60_35 {
+    padding-right: 0px;
+}
+
+}
